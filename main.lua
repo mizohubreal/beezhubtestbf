@@ -31469,8 +31469,8 @@ do
 end
 
 lib:Notify({
-	Title = "Banana Hub",
-	Description = "Banana Hub comeback",
-	Icon = "rbxassetid://5009915795",
+	Title = "BeeZ Hub Hub",
+	Description = "BeeZ Hub Hub comeback",
+	Icon = "rbxassetid://112421909252010",
 	Duration = 5
 })

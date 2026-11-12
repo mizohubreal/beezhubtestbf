@@ -2279,9 +2279,9 @@ end
 
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxfruitsnokey/Banana/refs/heads/main/Banana/ui.luau"))()
 local v237 = lib:CreateWindow({
-	Title = "Banana Hub",
+	Title = "BeeZ Hub",
 	Subtitle = "Blox Fruit Script",
-	Image = "rbxassetid://5009915795"
+	Image = "rbxassetid://112421909252010"
 })
 local t15 = {
 	Info = v237:AddTab("Info And Status"),
